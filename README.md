@@ -1,2 +1,2 @@
 # HPC
-Some simple HPC practice codes
+Some simple HPC practice programs

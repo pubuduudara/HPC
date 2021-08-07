@@ -1,0 +1,9 @@
+class diagrams/ synchronization diagram etc
+kernel design/ parallel reduction
+OpenCL optimziatin techniques.
+
+DIFFICULTIES
+	1. FAILING INITIAL DESING 
+	2. LESS SUPPORT OF NVIDIA
+
+FOR CHAPTER 5 ADD ALL THE REUSLTS/GRAPHS ETC AND VITIS EMULATOR SCREENSHOT
